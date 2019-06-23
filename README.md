@@ -22,3 +22,8 @@ You can find the complete tutorial, following each stage of the project through 
 ![](Documentation/images/T01-S04-IMG01.png)
 ![](Documentation/images/T01-S05-IMG01.png)
 ![](Documentation/images/T01-S06-IMG01.png)
+
+## Building Lists and Navigation
+
+**Section 1:** Get to Know the Sample Data *(0.1.0)*<br>
+
