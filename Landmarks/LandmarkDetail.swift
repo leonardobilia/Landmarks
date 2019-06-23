@@ -28,8 +28,26 @@ struct LandmarkDetail: View {
                 .padding(.bottom, -110)
             
             VStack(alignment: .leading) {
-                Text(landmark.name)
-                    .font(.title)
+                HStack {
+                    Text(landmark.name)
+                        .font(.title)
+                    
+                    Button(action: {
+                        self.userData.landmarks[self.landmarkIndex].isFavorite.toggle()
+                    }) {
+                        if self.userData.landmarks[self.landmarkIndex].isFavorite {
+                            Image(systemName: "star.fill")
+                                .resizable()
+                                .frame(width: 20, height: 20)
+                                .foregroundColor(Color.yellow)
+                        } else {
+                            Image(systemName: "star")
+                                .resizable()
+                                .frame(width: 20, height: 20)
+                                .foregroundColor(Color.gray)
+                        }
+                    }
+                }
                 
                 HStack {
                     Text(landmark.park)

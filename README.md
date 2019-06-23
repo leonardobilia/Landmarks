@@ -46,6 +46,8 @@ You can find the complete tutorial, following each stage of the project through 
 **Section 3:** Add a Control to Toggle the State *(0.2.2)*<br>
 **Section 4:** Use a Bindable Object for Storage *(0.2.3)*<br>
 **Section 5:** Adopt the Model Object in Your Views *(0.2.4)*<br>
+**Section 6:** Create a Favorite Button for Each Landmark *(0.2.5)*<br>
 
 ![](Documentation/images/T03-S01-IMG01.png)
 ![](Documentation/images/T03-S03-IMG01.png)
+![](Documentation/images/T03-S06-IMG01.png)
