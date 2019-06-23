@@ -38,3 +38,9 @@ You can find the complete tutorial, following each stage of the project through 
 ![](Documentation/images/T02-S04-IMG01.png)
 ![](Documentation/images/T02-S05-IMG01.png)
 ![](Documentation/images/T02-S06-IMG01.png)
+
+## Handling User Input
+
+**Section 1:** Mark the User’s Favorite Landmarks *(0.2.0)*<br>
+
+![](Documentation/images/T03-S01-IMG01.png)

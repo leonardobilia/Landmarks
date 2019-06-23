@@ -19,6 +19,13 @@ struct LandmarkRow : View {
             
             Text(landmark.name)
             Spacer()
+            
+            if landmark.isFavorite {
+                Image(systemName: "star.fill")
+                    .resizable()
+                    .frame(width: 20, height: 20)
+                    .foregroundColor(.yellow)
+            }
         }
     }
 }
@@ -27,7 +34,7 @@ struct LandmarkRow : View {
 struct LandmarkRow_Previews : PreviewProvider {
     static var previews: some View {
         Group {
-            LandmarkRow(landmark: landmarkData[1])
+            LandmarkRow(landmark: landmarkData[0])
             LandmarkRow(landmark: landmarkData[0])
                 .environment(\.colorScheme, .dark)
                 .preferredColorScheme(.dark)
