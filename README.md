@@ -42,5 +42,6 @@ You can find the complete tutorial, following each stage of the project through 
 ## Handling User Input
 
 **Section 1:** Mark the User’s Favorite Landmarks *(0.2.0)*<br>
+**Section 2:** Filter the List View *(0.2.1)*<br>
 
 ![](Documentation/images/T03-S01-IMG01.png)
