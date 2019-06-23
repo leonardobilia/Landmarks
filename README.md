@@ -30,7 +30,9 @@ You can find the complete tutorial, following each stage of the project through 
 **Section 3:** Customize the Row Preview *(0.1.2)*<br>
 **Section 4:** Create the List of Landmarks *(0.1.3)*<br>
 **Section 5:** Make the List Dynamic *(0.1.4)*<br>
+**Section 6:** Set Up Navigation Between List and Detail *(0.1.5)*<br>
 
 ![](Documentation/images/T02-S02-IMG01.png)
 ![](Documentation/images/T02-S04-IMG01.png)
 ![](Documentation/images/T02-S05-IMG01.png)
+![](Documentation/images/T02-S06-IMG01.png)
