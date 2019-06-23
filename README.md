@@ -10,4 +10,7 @@ You can find the complete tutorial, following each stage of the project through 
 ## Creating and Combining Views
 
 **Section 1:** Create a New Project and Explore the Canvas *(0.0.1)*<br>
+**Section 2:** Customize the Text View *(0.0.2)*<br>
 ![](Documentation/images/T01-S01-IMG01.png)
+![](Documentation/images/T01-S02-IMG01.png)
+
