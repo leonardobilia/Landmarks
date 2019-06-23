@@ -14,7 +14,7 @@ You can find the complete tutorial, following each stage of the project through 
 **Section 3:** Combine Views Using Stacks *(0.0.3)*<br>
 **Section 4:** Create a Custom Image View *(0.0.4)*<br>
 **Section 5:** Use UIKit and SwiftUI Views Together *(0.0.5)*<br>
-**Section 5:** Compose the Detail View *(0.0.6)*<br>
+**Section 6:** Compose the Detail View *(0.0.6)*<br>
 
 ![](Documentation/images/T01-S01-IMG01.png)
 ![](Documentation/images/T01-S02-IMG01.png)
