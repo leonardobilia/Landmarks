@@ -2,7 +2,7 @@
 
 Landmarks is project part of the SwiftUI Tutorials, created by Apple to showcase their brand new SwiftUI, that is a modern way to declare user interfaces for any Apple platform. 
 
-You can find the complete tutorial, following each stage of the project through the tags in this releases section.
+You can find the tutorial steps, following each section of the project through the release tags.
 
 #### Official SwiftUI Tutorial: 
 - [Landmark Tutorial](https://developer.apple.com/tutorials/swiftui)
