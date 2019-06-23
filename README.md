@@ -45,6 +45,7 @@ You can find the complete tutorial, following each stage of the project through 
 **Section 2:** Filter the List View *(0.2.1)*<br>
 **Section 3:** Add a Control to Toggle the State *(0.2.2)*<br>
 **Section 4:** Use a Bindable Object for Storage *(0.2.3)*<br>
+**Section 5:** Adopt the Model Object in Your Views *(0.2.4)*<br>
 
 ![](Documentation/images/T03-S01-IMG01.png)
 ![](Documentation/images/T03-S03-IMG01.png)
