@@ -31,7 +31,8 @@ You can find the complete tutorial, following each stage of the project through 
 **Section 4:** Create the List of Landmarks *(0.1.3)*<br>
 **Section 5:** Make the List Dynamic *(0.1.4)*<br>
 **Section 6:** Set Up Navigation Between List and Detail *(0.1.5)*<br>
-**Section 7:** Pass Data into Child Views*(0.1.6)*<br>
+**Section 7:** Pass Data into Child Views *(0.1.6)*<br>
+**Section 8:** Generating Previews Dynamically *(0.1.7)*<br>
 
 ![](Documentation/images/T02-S02-IMG01.png)
 ![](Documentation/images/T02-S04-IMG01.png)
