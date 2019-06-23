@@ -43,5 +43,7 @@ You can find the complete tutorial, following each stage of the project through 
 
 **Section 1:** Mark the User’s Favorite Landmarks *(0.2.0)*<br>
 **Section 2:** Filter the List View *(0.2.1)*<br>
+**Section 3:** Add a Control to Toggle the State *(0.2.2)*<br>
 
 ![](Documentation/images/T03-S01-IMG01.png)
+![](Documentation/images/T03-S03-IMG01.png)
