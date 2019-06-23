@@ -26,4 +26,6 @@ You can find the complete tutorial, following each stage of the project through 
 ## Building Lists and Navigation
 
 **Section 1:** Get to Know the Sample Data *(0.1.0)*<br>
+**Section 2:** Create the Row View *(0.1.1)*<br>
 
+![](Documentation/images/T02-S02-IMG01.png)
