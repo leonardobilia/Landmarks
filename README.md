@@ -10,4 +10,4 @@ You can find the complete tutorial, following each stage of the project through 
 ## Creating and Combining Views
 
 **Section 1:** Create a New Project and Explore the Canvas *(0.0.1)*
-![](Documents/images/01-S01-IMG01.png)
+![](Documentation/images/01-S01-IMG01.png)
