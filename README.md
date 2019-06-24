@@ -51,3 +51,9 @@ You can find the tutorial steps, following each section of the project through t
 ![](Documentation/images/T03-S01-IMG01.png)
 ![](Documentation/images/T03-S03-IMG01.png)
 ![](Documentation/images/T03-S06-IMG01.png)
+
+## Composing Complex Interfaces
+
+**Section 1:** Add a Home View *(0.3.0)*<br>
+
+![](Documentation/images/T04-S01-IMG01.png)
