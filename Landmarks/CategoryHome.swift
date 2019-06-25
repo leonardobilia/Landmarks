@@ -33,8 +33,19 @@ struct CategoryHome : View {
                     CategoryRow(categoryName: key, items: self.categories[key]!)
                 }
                 .listRowInsets(EdgeInsets())
+                
+                NavigationButton(destination: LandmarkList()) {
+                    Text("See All")
+                }
             }
             .navigationBarTitle(Text("Featured"))
+            .navigationBarItems(trailing: PresentationButton(destination: Text("User Profile")) {
+                    Image(systemName: "person.crop.circle")
+                        .imageScale(.large)
+                        .accessibility(label: Text("User Profile"))
+                        .padding()
+                }
+            )
         }
     }
 }

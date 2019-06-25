@@ -58,8 +58,10 @@ You can find the tutorial steps, following each section of the project through t
 **Section 2:** Create a Categories List *(0.3.1)*<br>
 **Section 3:** Add Rows of Landmarks *(0.3.2)*<br>
 **Section 4:** Compose the Home View *(0.3.3)*<br>
+**Section 5:** Add Navigation Between Sections *(0.3.4)*<br>
 
 ![](Documentation/images/T04-S01-IMG01.png)
 ![](Documentation/images/T04-S02-IMG01.png)
 ![](Documentation/images/T04-S03-IMG01.png)
 ![](Documentation/images/T04-S04-IMG01.png)
+![](Documentation/images/T04-S05-IMG01.png)
