@@ -9,10 +9,21 @@
 import SwiftUI
 
 struct CategoryHome : View {
+    var categories: [String: [Landmark]] {
+        .init(
+            grouping: landmarkData,
+            by: { $0.category.rawValue }
+        )
+    }
+    
     var body: some View {
         NavigationView {
-            Text("Landmarks Content")
-                .navigationBarTitle(Text("Featured"))
+            List {
+                ForEach(categories.keys.sorted().identified(by: \.self)) { key in
+                    Text(key)
+                }
+            }
+            .navigationBarTitle(Text("Featured"))
         }
     }
 }
